@@ -6,7 +6,7 @@ This project is a multithreading, web scraping, and data visualization program. 
 
 My code has an architecture with 3 layers: a UI layer that contains components required to enable user interaction with the application; a Business Layer that processes the input data; and a Data Layer that controls access logic components to access the data.
 
-
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/architecture.png?raw=true)
 
 
 The UI layer consists of the UI and Graph classes. The Graph Class creates and displays the graphs. The UI class creates the interface that the user interacts with: the main window and the tabs.
@@ -27,25 +27,26 @@ urllib and BeautifulSoup for web scraping, pandas dataframe for data processing,
 
 ## Results
 
-
+![image](https://github.com/carab9/asynchronous-programming-threading/co2.png?raw=true)
 
 This chart shows the linear regression between CO2 levels and year, displayed alongside a scatter plot.
 
+![image](https://github.com/carab9/asynchronous-programming-threading/ch4.png?raw=true)
 
 This chart shows the linear regression between CH4 levels and year, displayed alongside a scatter plot.
 
-
+![image](https://github.com/carab9/asynchronous-programming-threading/n2o.png?raw=true)
 
 This chart shows the linear regression between N2O levels and year, displayed alongside a scatter plot.
 
-
+![image](https://github.com/carab9/asynchronous-programming-threading/cfcs.png?raw=true)
 
 This chart shows the linear regression between CFCs levels and year, displayed alongside a scatter plot.
 
-
+![image](https://github.com/carab9/asynchronous-programming-threading/hcfcs.png?raw=true)
 
 This chart shows the linear regression between HCFCs levels and year, displayed alongside a scatter plot.
 
-
+![image](https://github.com/carab9/asynchronous-programming-threading/hfcs.png?raw=true)
 
 This chart shows the linear regression between HCFCS* levels and year, displayed alongside a scatter plot.
