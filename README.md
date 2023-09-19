@@ -18,7 +18,7 @@ The Data layer consists of the SqliteDB class, which provides the SQL APIs to cr
 ## Requirements
 
 Python
-Python Libraries: numpy, pandas, sqlite3, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter, urllib.request, bs4, threading, time
+Python Libraries: numpy, pandas, sqlite3, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter, urllib.request, bs4, threading, time.
 Run the program: python main.py
 
 ## Technical Skills
