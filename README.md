@@ -47,7 +47,7 @@ This chart shows the linear regression between HCFCs levels and year, displayed 
 
 ![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/hcfcs.png?raw=true)
 
-This chart shows the linear regression between HCFCS* levels and year, displayed alongside a scatter plot.
+This chart shows the linear regression between HFCS* levels and year, displayed alongside a scatter plot.
 
 ![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/hfcs.png?raw=true)
 
