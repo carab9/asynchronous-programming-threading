@@ -27,26 +27,27 @@ urllib and BeautifulSoup for web scraping, pandas dataframe for data processing,
 
 ## Results
 
-![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/co2.png?raw=true)
-
 This chart shows the linear regression between CO2 levels and year, displayed alongside a scatter plot.
 
-![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/ch4.png?raw=true)
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/co2.png?raw=true)
 
 This chart shows the linear regression between CH4 levels and year, displayed alongside a scatter plot.
 
-![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/n2o.png?raw=true)
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/ch4.png?raw=true)
 
 This chart shows the linear regression between N2O levels and year, displayed alongside a scatter plot.
 
-![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/cfcs.png?raw=true)
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/n2o.png?raw=true)
 
 This chart shows the linear regression between CFCs levels and year, displayed alongside a scatter plot.
 
-![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/hcfcs.png?raw=true)
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/cfcs.png?raw=true)
 
 This chart shows the linear regression between HCFCs levels and year, displayed alongside a scatter plot.
 
-![image](https://github.com/carab9/asynchronous-programming-threading/hfcs.png?raw=true)
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/hcfcs.png?raw=true)
 
 This chart shows the linear regression between HCFCS* levels and year, displayed alongside a scatter plot.
+
+![image](https://github.com/carab9/asynchronous-programming-threading/blob/main/hfcs.png?raw=true)
+
