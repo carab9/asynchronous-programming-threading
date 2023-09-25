@@ -1,6 +1,6 @@
 # Asynchronous Programming - Threading
 
-This project is a multithreading, web scraping, and data visualization program. The goal of this project is to extract yearly data of the levels of 6 different glasses (from 1979 to 2022) and display them in separate graphs. The data is first scraped from a webpage called “THE NOAA ANNUAL GREENHOUSE GAS INDEX (AGGI)”. The program parses and processes the data and stores it into the database. The data is then retrieved from the database using 6 separate threads, one for each type of gas. Each thread only retrieves a year’s data and uses thread lock to synchronize the shared access to the database. The data for each gas is plotted. Each graph can be accessed on a separate tab in the user interface.
+This project is a multithreading, web scraping, and data visualization program. The goal of this project is to extract yearly data of the levels of 6 different glasses (from 1979 to 2022) and display them in separate graphs. The data is first scraped from a webpage called [“THE NOAA ANNUAL GREENHOUSE GAS INDEX (AGGI)”](https://gml.noaa.gov/aggi/aggi.html). The program parses and processes the data and stores it into the database. The data is then retrieved from the database using 6 separate threads, one for each type of gas. Each thread only retrieves a year’s data and uses thread lock to synchronize the shared access to the database. The data for each gas is plotted. Each graph can be accessed on a separate tab in the user interface.
 
 ## Architecture
 
