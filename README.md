@@ -23,7 +23,7 @@ Run the program: python main.py
 
 ## Technical Skills
 
-urllib and BeautifulSoup for web scraping, pandas dataframe for data processing, SQLite for database, threading and time for threading, thread lock for multithreading synchronization, matplotlib Figure and FigureCanvasTkAgg for plotting graphs. Tkinter for GUIs.
+urllib and BeautifulSoup for web scraping, pandas dataframe for data processing, SQLite for database, threading and time for threading, thread lock for multithreading synchronization, matplotlib Figure and FigureCanvasTkAgg for plotting graphs, Tkinter for GUIs, and linear regression algorithm for data analysis.
 
 ## Results
 
